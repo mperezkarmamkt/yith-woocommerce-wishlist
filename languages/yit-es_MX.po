@@ -140,15 +140,15 @@ msgstr ""
 
 #: ../includes/class.yith-wcwl-admin-init.php:974
 msgid "After \"Add to cart\""
-msgstr "Despued de \"Agregar al Carrito\""
+msgstr "Después de \"Agregar al Carrito\""
 
 #: ../includes/class.yith-wcwl-admin-init.php:975
 msgid "After thumbnails"
-msgstr "Despues de las miniaturas"
+msgstr "Después de las miniaturas"
 
 #: ../includes/class.yith-wcwl-admin-init.php:976
 msgid "After summary"
-msgstr "Despues del Resumen"
+msgstr "Después del Resumen"
 
 #: ../includes/class.yith-wcwl-admin-init.php:977
 msgid "Use shortcode"
@@ -665,7 +665,7 @@ msgstr "Agotado"
 
 #: ../templates/wishlist-view.php:198
 msgid "In Stock"
-msgstr "Disponilbe."
+msgstr "Disponible."
 
 #: ../templates/wishlist-view.php:209
 #, php-format
